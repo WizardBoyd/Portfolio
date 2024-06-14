@@ -247,7 +247,7 @@ params:
           name: "Staffordshire University, Stoke-On-Trent, United Kingdom"
           url: "https://www.staffs.ac.uk"
         date: "2021 - 2024"
-        GPA: "65%+"
+        GRADE: "65%+"
         content: |-
             - Dissertation in: Multiplayer games development with SDL2, Docker, EKS, AWS and C++
             - Course representative for 2nd year
@@ -264,7 +264,7 @@ params:
           name: "Hertfordshire Regional College, Ware, United Kingdom"
           url: "https://www.hrc.ac.uk"
         date: "2018 - 2020"
-        GPA: "DDM"
+        GRADE: "DDM"
         content: |-
           - Led a 6 person team project for a FPS wave survival shooter game
           - Final year project on game media convergence
@@ -274,7 +274,7 @@ params:
           name: "BMAT STEM Academy, Harlow, United Kingdom"
           url: "https://www.bmatstemacademy.org"
         date: "2016 - 2018"
-        GPA: "D*DM"
+        GRADE: "D*DM"
         content: |-
           - Produced a text based game using Visual Basic
           - Learned the fundamentals of object oriented programming
@@ -319,24 +319,6 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
       - title: Image Converter
         content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
         image: /images/projects/converter.jpg

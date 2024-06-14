@@ -13,7 +13,7 @@
       <link>//localhost:1313/blogs/unityclock/</link>
       <pubDate>Thu, 13 Jun 2024 22:50:23 +0100</pubDate>
       <guid>//localhost:1313/blogs/unityclock/</guid>
-      <description>Introduction I go through the math&amp;rsquo;s behind what makes a clock tick including the positioning of the handles and basic triganometry.</description>
+      <description>Introduction I go through the math&amp;rsquo;s behind what makes a clock tick including the positioning of the handles and basic triganometry.&#xA;Inspiration The inspiration for this post came from a blog article by CatlikeCoding on basic game objects in unity.&#xA;I wanted to document my expirence and what I learnt by going through this&#xA;Trigonometry before going through this guide I knew about concepts like cos(x) and sin(x), however I had no clue on how they related to other concepts such as circles/angles/etc.</description>
     </item>
   </channel>
 </rss>

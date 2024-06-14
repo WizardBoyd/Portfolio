@@ -16,6 +16,13 @@
       <description>Introduction I go through the math&amp;rsquo;s behind what makes a clock tick including the positioning of the handles and basic triganometry.&#xA;Inspiration The inspiration for this post came from a blog article by CatlikeCoding on basic game objects in unity.&#xA;I wanted to document my expirence and what I learnt by going through this&#xA;Trigonometry before going through this guide I knew about concepts like cos(x) and sin(x), however I had no clue on how they related to other concepts such as circles/angles/etc.</description>
     </item>
     <item>
+      <title>Journey Through The Mountain</title>
+      <link>//localhost:1313/projects/jttm/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>//localhost:1313/projects/jttm/</guid>
+      <description>Introduction Journey through the mountain is a game I developed for my 2nd year 2nd semester at staffordshire university.&#xA;the story behind the development descsion to use Monogame and c# compared to off the shelf game engine such as unity or unreal was I wanted to familurise myself with a typical game loop and game flow.&#xA;Status The current status of the project is currenty on hold it has a couple of issues still such as the falling mechanic not working quite right and the obvious screen resolution issue, I may re-write the game in a different framework when I revist it.</description>
+    </item>
+    <item>
       <title>Render Math With Mathjax</title>
       <link>//localhost:1313/blogs/math/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>

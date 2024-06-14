@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Luis Boyd Portfolio</title>
+    <link>//localhost:1313/projects/</link>
+    <description>Recent content in Projects on Luis Boyd Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journey Through The Mountain</title>
+      <link>//localhost:1313/projects/jttm/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>//localhost:1313/projects/jttm/</guid>
+      <description>Introduction Journey through the mountain is a game I developed for my 2nd year 2nd semester at staffordshire university.&#xA;the story behind the development descsion to use Monogame and c# compared to off the shelf game engine such as unity or unreal was I wanted to familurise myself with a typical game loop and game flow.&#xA;Status The current status of the project is currenty on hold it has a couple of issues still such as the falling mechanic not working quite right and the obvious screen resolution issue, I may re-write the game in a different framework when I revist it.</description>
+    </item>
+  </channel>
+</rss>
