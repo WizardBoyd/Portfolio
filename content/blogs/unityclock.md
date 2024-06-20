@@ -7,7 +7,7 @@ tags:
  - Beginer Math
  - Unity
  - Game Development
-image: /images/UnityClock.png
+image: /images/blogs/UnityClock.png
 description: "I go through the math's behind what makes a clock tick including the positioning of the handles and basic triganometry."
 mathjax: true
 ---
