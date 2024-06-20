@@ -4,7 +4,7 @@ date: 2022-12-09T19:53:33+05:30
 draft: false
 author: "Luis Boyd"
 badges:
-    - "C#"
+    - "CSharp"
     - "MonoGame"
     - "WPF"
 image: /projects/JTTM_Cover.png
