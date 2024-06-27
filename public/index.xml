@@ -22,5 +22,12 @@
       <guid>//localhost:1313/projects/jttm/</guid>
       <description>Introduction Journey through the mountain is a game I developed for my 2nd year 2nd semester at staffordshire university.&#xA;the story behind the development descsion to use Monogame and c# compared to off the shelf game engine such as unity or unreal was I wanted to familurise myself with a typical game loop and game flow.&#xA;Status The current status of the project is currenty on hold it has a couple of issues still such as the falling mechanic not working quite right and the obvious screen resolution issue, I may re-write the game in a different framework when I revist it.</description>
     </item>
+    <item>
+      <title>Gallery</title>
+      <link>//localhost:1313/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      <guid>//localhost:1313/gallery/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
