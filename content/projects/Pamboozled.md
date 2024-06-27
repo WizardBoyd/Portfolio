@@ -1,6 +1,6 @@
 ---
 title: "Pamboozled"
-date: 2023-06-17T19:53:33+05:30
+date: 2024-05-30T14:53:33+05:30
 draft: false
 author: "Luis Boyd"
 badges:
