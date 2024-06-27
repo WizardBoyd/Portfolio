@@ -23,7 +23,7 @@ Pamboozled is a Couch Co-op, platformer party game for 2-4 players. Featuring a 
 
 ## Status
 
-The Current Status of this project is complete as it was only meant to showcase off simple socket programming concepts so I don't intend to take this game idea further
+The Current Status of this project is complete as it was submitted as part of a university module (I may revisit in the future and do a remake)
 
 ## Summary of work
 
