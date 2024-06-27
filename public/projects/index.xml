@@ -6,8 +6,22 @@
     <description>Recent content in Projects on Luis Boyd Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jun 2023 19:53:33 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Exploration Project</title>
+      <link>//localhost:1313/projects/networkexplorationproject/</link>
+      <pubDate>Sat, 17 Jun 2023 19:53:33 +0530</pubDate>
+      <guid>//localhost:1313/projects/networkexplorationproject/</guid>
+      <description>Introduction This was a project I developed during off times after my 2nd year at university along side my placement year, I followed a lot of concepts from Multiplayer Game Programming: Architecting Networked Games (Game Design) by Josh Glazer and Sanjay Madhav and Programming Multiplayer Games by Andrew Mulholland and Teijo Hakala&#xA;Status The Current Status of this project is complete as it was only meant to showcase off simple socket programming concepts so I don&amp;rsquo;t intend to take this game idea further</description>
+    </item>
+    <item>
+      <title>Pamboozled</title>
+      <link>//localhost:1313/projects/pamboozled/</link>
+      <pubDate>Sat, 17 Jun 2023 19:53:33 +0530</pubDate>
+      <guid>//localhost:1313/projects/pamboozled/</guid>
+      <description>Introduction Pamboozled is a Couch Co-op, platformer party game for 2-4 players. Featuring a variety of party game modes to choose from.&#xA;Status The Current Status of this project is complete as it was only meant to showcase off simple socket programming concepts so I don&amp;rsquo;t intend to take this game idea further&#xA;Summary of work Most of the work done was expiremental with getting myself familur with socket programming but I learned these concepts:</description>
+    </item>
     <item>
       <title>Journey Through The Mountain</title>
       <link>//localhost:1313/projects/jttm/</link>
