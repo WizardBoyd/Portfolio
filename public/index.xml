@@ -16,18 +16,18 @@
       <description>Introduction I go through the math&amp;rsquo;s behind what makes a clock tick including the positioning of the handles and basic triganometry.&#xA;Inspiration The inspiration for this post came from a blog article by CatlikeCoding on basic game objects in unity.&#xA;I wanted to document my expirence and what I learnt by going through this&#xA;Trigonometry before going through this guide I knew about concepts like cos(x) and sin(x), however I had no clue on how they related to other concepts such as circles/angles/etc.</description>
     </item>
     <item>
+      <title>Pamboozled</title>
+      <link>//localhost:1313/projects/pamboozled/</link>
+      <pubDate>Thu, 30 May 2024 14:53:33 +0530</pubDate>
+      <guid>//localhost:1313/projects/pamboozled/</guid>
+      <description>Introduction Pamboozled is a Couch Co-op, platformer party game for 2-4 players. Featuring a variety of party game modes to choose from.&#xA;Status The Current Status of this project is complete as it was submitted as part of a university module (I may revisit in the future and do a remake)&#xA;Summary of work In this project I did not only take the role of lead programmer I also led 3 juniors and perforomed weekly scrum meetings in line with a agile workflow</description>
+    </item>
+    <item>
       <title>Network Exploration Project</title>
       <link>//localhost:1313/projects/networkexplorationproject/</link>
       <pubDate>Sat, 17 Jun 2023 19:53:33 +0530</pubDate>
       <guid>//localhost:1313/projects/networkexplorationproject/</guid>
       <description>Introduction This was a project I developed during off times after my 2nd year at university along side my placement year, I followed a lot of concepts from Multiplayer Game Programming: Architecting Networked Games (Game Design) by Josh Glazer and Sanjay Madhav and Programming Multiplayer Games by Andrew Mulholland and Teijo Hakala&#xA;Status The Current Status of this project is complete as it was only meant to showcase off simple socket programming concepts so I don&amp;rsquo;t intend to take this game idea further</description>
-    </item>
-    <item>
-      <title>Pamboozled</title>
-      <link>//localhost:1313/projects/pamboozled/</link>
-      <pubDate>Sat, 17 Jun 2023 19:53:33 +0530</pubDate>
-      <guid>//localhost:1313/projects/pamboozled/</guid>
-      <description>Introduction Pamboozled is a Couch Co-op, platformer party game for 2-4 players. Featuring a variety of party game modes to choose from.&#xA;Status The Current Status of this project is complete as it was only meant to showcase off simple socket programming concepts so I don&amp;rsquo;t intend to take this game idea further&#xA;Summary of work In this project I did not only take the role of lead programmer I also led 3 juniors and perforomed weekly scrum meetings in line with a agile workflow</description>
     </item>
     <item>
       <title>Journey Through The Mountain</title>

@@ -127,7 +127,7 @@ params:
     title: "Luis."
     subtitle: "I build software and develop games"
     content: "A passionite software developer. I tend to learn modern technolgies, when developing software and games, to make them maintanable in the future."
-    image: /images/hero.jpg
+    image: /images/HeroPictureZelda.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -155,7 +155,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/SecondIconMe.jpg"
+    image: "/images/GraphHeroSecond.png"
     content: |-
       I am a software/Game developer with a passion for Cloud Computing and Networking. I have a background in computer science,Game Design and Game Devlopment, and I have a strong interest in the intersection of technology that makes up cloud infastructures. I am currently looking for work as a game/software developer in the United Kingdom. 
 
